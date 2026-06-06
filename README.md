@@ -2,7 +2,7 @@ Hi, I'm Milind
 
 Defence & Industrial Strategy Analyst with an interdisciplinary background in Electronics & Telecommunication Engineering and Economics.
 
-Areas of Interest
+## Areas of Interest
 
 - Defence Economics
 - Defence Industrial Policy
@@ -13,7 +13,21 @@ Areas of Interest
 - Indo-Pacific Strategy
 - Strategic Supply Chains
 
-Current Focus
+## Technical Skills
+
+- Electronics & Telecommunication Engineering
+- Defence Technology Analysis
+- Industrial Strategy
+- Python
+- Econometrics
+- Data Analysis
+- Statistical Modelling
+- Policy Research
+- Strategic Assessment
+- Data Visualisation
+- Research Communication
+
+## Current Focus
 
 - Python for Policy Research
 - Econometrics
@@ -22,7 +36,7 @@ Current Focus
 - Defence Budget Analytics
 - Geopolitical Risk Assessment
 
-Research Background
+## Research Background
 
 - UGC-NET Qualified in Economics
 - UGC-NET Qualified in Defence & Strategic Studies
@@ -30,7 +44,7 @@ Research Background
 - Presented research at a national conference supported by the Ministry of Culture
 - Completed the EU Non-Proliferation and Disarmament Consortium Comprehensive Programme
 
-Featured Repositories
+## Planned Research & Analytics Projects
 
 - Python for Policy Research
 - Econometrics Projects
@@ -38,7 +52,7 @@ Featured Repositories
 - Geopolitical Risk Dashboard
 - Strategic Supply Chain Intelligence
 
-Career Interests
+## Career Interests
 
 Research Analyst | Economic Analyst | Policy Analyst | Geopolitical Risk Analyst | Strategy Analyst
 
