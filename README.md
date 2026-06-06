@@ -1,6 +1,6 @@
 Hi, I'm Milind
 
-Defence & Industrial Strategy Analyst with an interdisciplinary background in Electronics & Telecommunication Engineering and Economics.
+Defence & Industrial Strategy Analyst focused on defence economics, industrial capacity, strategic technologies, and geopolitical risk. Background in Electronics & Telecommunication Engineering and Economics.
 
 ## Areas of Interest
 
